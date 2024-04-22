@@ -1,24 +1,13 @@
-# Mixtral-8x7B LLM with LangChain and Chainlit Chat UI
+# Python Data Science Project and AI Integrations
 
-## Prerequisites
-* Python 3.1 or higher
+This project contains my experiments with Data Science,
+LLMs and AI.
 
-# Steps to Run Chainlit App
-Fork this repository. Download load it locally
+## Chainlit Chatbots:
+[Mixtral-8x7B LLM with LangChain and Chainlit Chat UI](/Chain-LitChat-Mistral7b)
+<br/>
+[Falcom LLM with LangChain and Chainlit Chat UI](/Chain-LitChat-Falcon7b)
 
-Install the required Python packages by running the following command in your terminal:
 
-```
-pip install chainlit langchain dotenv
-```
-Create a .env file in the project directory. You can use the example.env file as a reference. Add your Hugging Face API token to the .env file in the following format:
-
-HUGGINGFACEHUB_API_TOKEN = your_token_here
-
-Run the following command:
-```
-chainlit run app.py -w
-```
-This will launch Chainlit UI and you will be able to chat with the Mixtral-8x7B LLM.
-
-Enjoy using Mistalai LLM with LangChain and Chainlit!
+## Streamlit Chatbots:
+[Mixtral-8x7B LLM with LangChain and Streamlit Chat UI](/Streamlit-Image-Generation)
