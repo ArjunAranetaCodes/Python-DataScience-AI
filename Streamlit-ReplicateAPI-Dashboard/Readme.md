@@ -1,5 +1,7 @@
 # Streamlit + Replicate API
 
+Youtube link: https://youtu.be/NDasYvsWFLA
+
 ## Features: 
 
 * Image Generation
