@@ -5,8 +5,9 @@ import time
 
 def image_to_prompt():
     st.subheader("Image to Prompt")
-    uploaded_file = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg"], key="image_to_prompt_upload")
-
+    uploaded_file = st.file_uploader("Upload an image",
+                                     type=["png", "jpg", "jpeg"],
+                                     key="image_to_prompt_upload")
     if uploaded_file is not None:
         st.image(uploaded_file)
         if st.button("Generate Prompt"):

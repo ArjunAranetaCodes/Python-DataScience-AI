@@ -5,7 +5,9 @@ import time
 
 def remove_background():
     st.subheader("Background Remover")
-    uploaded_file = st.file_uploader(label="Upload an image", type=["png", "jpg", "jpeg"], key="remove_background")
+    uploaded_file = st.file_uploader(label="Upload an image",
+                                     type=["png", "jpg", "jpeg"],
+                                     key="remove_background")
 
     if uploaded_file is not None:
         st.image(uploaded_file)
