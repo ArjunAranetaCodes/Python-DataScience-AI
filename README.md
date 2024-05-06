@@ -10,5 +10,5 @@ LLMs and AI.
 
 
 ## Streamlit Generative AI:
-[Mixtral-8x7B LLM with LangChain and Streamlit Chat UI](/Streamlit-Image-Generation)
+[Mixtral-8x7B LLM with LangChain and Streamlit Chat UI](/Streamlit-Image-Generation) <br/>
 [Streamlit + Replicate API](/Streamlit-ReplicateAPI-Dashboard)
