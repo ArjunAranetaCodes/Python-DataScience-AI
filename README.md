@@ -9,5 +9,6 @@ LLMs and AI.
 [Falcom LLM with LangChain and Chainlit Chat UI](/Chain-LitChat-Falcon7b)
 
 
-## Streamlit Chatbots:
+## Streamlit Generative AI:
 [Mixtral-8x7B LLM with LangChain and Streamlit Chat UI](/Streamlit-Image-Generation)
+[Streamlit + Replicate API](/Streamlit-ReplicateAPI-Dashboard)
