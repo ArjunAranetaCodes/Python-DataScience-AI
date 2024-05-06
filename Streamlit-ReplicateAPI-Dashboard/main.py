@@ -20,7 +20,9 @@ st.title("Replicate API Dashboard")
 st.sidebar.title("AI Tools")
 
 # State variables
-current_page = st.sidebar.radio("Tools", ["Generate Image", "Image to Prompt", "Remove Background"], key="page_selector",
+current_page = st.sidebar.radio("Tools",
+                                ["Generate Image", "Image to Prompt", "Remove Background"],
+                                key="page_selector",
                                 label_visibility="hidden")
 
 # Generate Image
