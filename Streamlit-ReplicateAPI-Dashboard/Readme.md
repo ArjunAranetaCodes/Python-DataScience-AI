@@ -6,4 +6,4 @@
 * Image to Prompt
 * Remove Background 
 
-![](/streamlit_replicate.PNG)
+![](./streamlit_replicate.PNG)
